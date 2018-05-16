@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 0 0 1em;
+}
+
+.App-title {
+  color: hsla(0, 0%, 100%, 0.6);
+}
